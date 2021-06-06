@@ -1,7 +1,7 @@
 # lensed_SNe_time_delay
 TP IVb project at EPFL
 
-We provide here a couple of scripts to work on a dataset that we had, you should have a similar dataset to make the scripts work well. 
+We provide here a couple of scripts to work on a dataset that we had, you should have a similar dataset to make the scripts work well. We also provid a paper made from this work if you are looking for more information about the motivations and what have been done. 
 
 lc_maker.py : transforms the dataset to PyCS3 light curves object.
 
