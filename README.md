@@ -12,3 +12,6 @@ timedelay_plot.py : plot the distributions of the time delay differences.
 sncosmo_fit.py : fit time delays without microlensing using template of SNe from SNCosmo.
 
 module_sncosmo_fit.py : basis to adapt PyCS3 to lensed SNe.
+We have 2 strategies to fit :
+- Merge the light curves and fit this new superlight curve
+- Adapt the parameters of the template used on each light curve
